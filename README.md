@@ -42,4 +42,6 @@ class Gingermuffin(Human):
     ]
 ```
 
+[![Fox say screenshot](./assets/fox.png)](https://github.com/gingermuffin/foxsay)
+
 <img src="https://raw.githubusercontent.com/gingermuffin/gingermuffin/main/assets/cattyping.gif">
