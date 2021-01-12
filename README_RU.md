@@ -24,7 +24,6 @@ class Gingermuffin(Human):
     firstname = "Anastasia"
     lastname = "Kim"
     username = "gingermuffin"
-    sex = Sex.WOMAN
 
     toolbox = ["Python", "Jupyter Notebook", "MySQL", "Pandas", "Numpy",
                "Sklearn", "Matplotlib", "Seaborn", "SkiPy"]
