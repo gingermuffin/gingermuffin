@@ -1,16 +1,18 @@
-# Привет, я Настя Ким! <img src="https://raw.githubusercontent.com/gingermuffin/gingermuffin/main/assets/party_parrot.gif" width="30px">
-Я начинающий специалист по Data Science, который любит машинное обучение, статистику и программирование.
+# Hi, I'm Anastasiia Kim! <img src="https://raw.githubusercontent.com/gingermuffin/gingermuffin/main/assets/party_parrot.gif" width="30px">
+I am a Data Science major who loves Machine Learning, Statistics and Programming.
 
-С апреля 2020'го прохожу обучение в [Яндекс.Практикум](https://praktikum.yandex.ru/data-scientist).
 
-Открыта к предложениям о работе (как удаленной, так и в офисе) и хочу применить свои знания в боевом проекте!
+Worked for companies such as XDSoft and Huawei Technologies
+
+Open to new opportunities (both remote and in-office) and want to apply my knowledge to new projects!
 
 \#opentowork
 
-([🇷🇺 Русская версия](./README_RU.md))
 
-## Как со мной связаться ✉️
-- [writerkim23@gmail.com](mailto:writerkim23@gmail.com) - пишите мне на Email чтобы ваше сообщение точно не потерялось.
+## How to reach me ✉️
+- [tasia.kim32@gmail.com](mailto:tasia.kim32@gmail.com) - Email me to make sure your message doesn't get lost.
+- [@gingermuffin](https://www.linkedin.com/in/gingermuffin/) - find me on LinkedIn
+- [Gingermuffin's chatbot](http://chat.gingermuffin.com/) - try to chat about my CV with chatbot
 
 <!--
 
@@ -19,7 +21,7 @@
 
 -->
 
-## Немного обо мне 🦊
+## About me 🦊
 
 ```python
 class Gingermuffin(Human):
@@ -31,6 +33,20 @@ class Gingermuffin(Human):
                "Sklearn", "Matplotlib", "Seaborn", "SkiPy"]
     passions = ["Data Science", "Machine Learning", "Statistics",
                 "Programming", "Cats"]
+                
+    work experience = [
+        {
+            "name": "XDSoft",
+            "link": "https://www.xdsoft.ru/",
+            "started_at": "2021-04-14T15:00:00Z",
+            "finished_at": "2021-12-14T15:00:00Z"
+        },
+        {
+            "name": "Huawei Technologies",
+            "link": "https://e.huawei.com/en/",
+            "started_at": "2021-12-14T15:00:00Z",
+            "finished_at": "2022-06-14T15:00:00Z"}
+    ]
 
     education = [
         {
