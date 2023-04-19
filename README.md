@@ -30,7 +30,8 @@ class Gingermuffin(Human):
     username = "gingermuffin"
 
     toolbox = ["Python", "Jupyter Notebook", "MySQL", "Pandas", "Numpy",
-               "Sklearn", "Matplotlib", "Seaborn", "SkiPy"]
+               "Sklearn", "Matplotlib", "Seaborn", "SkiPy",
+               "OpenCV", "Tensorflow", "Pytorch"]
     passions = ["Data Science", "Machine Learning", "Statistics",
                 "Programming", "Cats"]
                 
